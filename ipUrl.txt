@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/vpntemp11/act/refs/heads/main/ip4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/vpntemp11/act/refs/heads/main/ip4.txt
